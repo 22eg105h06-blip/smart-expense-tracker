@@ -47,5 +47,12 @@
         "category": "Food",
         "title": "Lunch",
         "date": "2026-07-31"
+    },
+    {
+        "id": 8,
+        "amount": 500.0,
+        "category": "Food",
+        "title": "Lunch",
+        "date": "2026-07-31"
     }
 ]
