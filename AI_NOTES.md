@@ -63,8 +63,7 @@ The final automated test execution was:
 python -m pytest -v
 4 passed
 
-
-**Changes Made to AI Suggestions**
+Changes made to AI suggestions
 
 AI suggestions were not blindly copied into the project.
 The suggested code and solutions were reviewed against the actual project structure and requirements. Changes were made where necessary to make the code work with the existing FastAPI application, frontend, tests, and local JSON storage.
